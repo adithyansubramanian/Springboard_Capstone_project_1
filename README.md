@@ -11,4 +11,4 @@ Your system must have python with the following libraries installed: pandas, num
 To start please download all csv and json files in the repository. These are the datasets used for the project. Next download and run the "cleaning" notrebook. Then, download and run the visualizations notebook. Finally run the machine learning notebook. The notebooks must be run in this order, as the work in the proceeding notebooks forms the basis of the next notebook. 
 
 ## Author
-This project was created by me, Adithyan Subramanian, with the help of my mentors, Mukesh Mithrakumar and Danny Wells. I can be easily eached by email at adithyan.subramanian19@gmail.com. 
+This project was created by me, Adithyan Subramanian, with the help of my mentors, Mukesh Mithrakumar and Danny Wells. I can be easily reached by email at adithyan.subramanian19@gmail.com. 
